@@ -1,8 +1,9 @@
+<img align="centre" alt="Coding" width="1000" height="200"  src="https://thumbs.gfycat.com/BigheartedGrimFlea-size_restricted.gif">
 <h1 align="center">Hey Geeks🤘I'm Sharang</h1>
-<h3 align="center">A passionate web developer from India.</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharang121&label=Profile%20views&color=0e75b6&style=flat" alt="sharang121" /> </p>
+<h3 align="top">A passionate web developer from India.</h3>
+<img align="centre" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sharang121&label=Profile%20views&color=0e75b6&style=flat" alt="sharang121" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharang121" alt="sharang121" /></a> </p>
 
@@ -13,7 +14,6 @@
 - 💬 Ask me about **Angular , Heroku**
 
 - 📫 How to reach me **official.sharang@gmail.com**
-- Linkdin **https://www.linkedin.com/in/sharang-bahuguna-5ba72216b/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
