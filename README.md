@@ -1,6 +1,6 @@
 <h1 align="center">Hey Geeks🤘I'm Sharang</h1>
 <h3 align="center">A passionate web developer from India.</h3>
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharang121&label=Profile%20views&color=0e75b6&style=flat" alt="sharang121" /> </p>
 
