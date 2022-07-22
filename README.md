@@ -13,6 +13,7 @@
 - 💬 Ask me about **Angular , Heroku**
 
 - 📫 How to reach me **official.sharang@gmail.com**
+- Linkdin **https://www.linkedin.com/in/sharang-bahuguna-5ba72216b/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
